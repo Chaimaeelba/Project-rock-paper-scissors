@@ -1,1 +1,1 @@
-# Project-rock-paper-scissors
+Rock Paper Scissors project to practice basic JS.
